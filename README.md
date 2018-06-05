@@ -4,18 +4,25 @@ In this game you have a Player and Enemies (Bugs). The goal of the player is to 
 
 # How to play
 
-
-# 1. Download game from:
-https://github.com/mariorendic/frontend-nanodegree-arcade-game
-<br>
-Or clone repo using:
+<ul>
+	<li>
+		1. Download game from:<br>
+		https://github.com/mariorendic/frontend-nanodegree-arcade-game
+	</li>
+	<li>
+		Or clone repo using:<br>
 $ git clone https://github.com/mariorendic/frontend-nanodegree-arcade-game.git
-
-# 2. Start game by opening index.html in your browser.
-
-# 3. Avoid bugs while collecting gems.
-
-# 4. Get to the water.
+	</li>
+	<li>
+		2. Start game by opening index.html in your browser.
+	</li>
+	<li>
+		3. Avoid bugs while collecting gems.
+	</li>
+	<li>
+		4. Get to the water.
+	</li>
+</ul>
 
 
 # Resources
